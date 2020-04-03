@@ -1,6 +1,7 @@
 # SAP-1
 > Computer Architecture SAP-1 by Malvino
 
+I copied the SAP-1 layout from the Third edition of Malvino's Digital Computer Electronics, as seen in Fig. 10-12, Fig. 10-13, and Fig. 10-15. Logism was used as a simulation instrument, so copying the power supply, clock, and clear circuit was not necessary.
 
 ## Malvino Layout
 ![Malvino's Layout](Media/Layout_1.png)
